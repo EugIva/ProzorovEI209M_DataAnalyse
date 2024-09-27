@@ -28,7 +28,7 @@
 ![image](https://github.com/user-attachments/assets/6e32fefa-1b63-412c-ad9b-ee5f498de8ec)
 
 
-Далее мы начали делать граф друзей друзей. Код для вытаскивания этих файлов представлен в getFriendsFriend.py. Получилось 14700 файлов, общим весом 2.5 гигабайта. Файлы создавались с 17:23 до 1:47.    
+Далее мы начали делать граф друзей друзей. Код для вытаскивания этих файлов представлен в getFriendsFriend.py. Получилось 14700 файлов, общим весом 2.5 гигабайта. Файлы создавались несколько часов, с 17:23 до 1:47.    
 
  ![image](https://github.com/user-attachments/assets/4a278f6d-273c-4996-8902-abbd706dd8bf)      
 ![image](https://github.com/user-attachments/assets/a87dd0d0-07f1-44d7-bb99-76446d19729d)
